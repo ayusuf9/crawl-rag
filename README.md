@@ -1,3 +1,28 @@
+# Dynamic RAG Chat System
+
+A powerful Retrieval-Augmented Generation (RAG) system that allows you to load websites into a knowledge base and chat with the content using an advanced AI assistant.
+
+## Features
+
+- **Website Crawling**: Automatically process entire websites via sitemaps or individual URLs
+- **Knowledge Base Management**: Store and manage processed content in a vector database
+- **AI-Powered Chat**: Ask questions about the loaded content with streaming responses
+- **User-Friendly Interface**: Clean Streamlit UI with real-time processing updates
+- **Database Statistics**: View insights about your knowledge base content
+- **Flexible Input Options**: Process single pages or entire sitemaps
+
+## Requirements
+
+- Python 3.7+
+- OpenAI API key
+- ChromaDB
+- Streamlit
+- Various Python packages (see Installation)
+
+## Installation
+
+1. Clone this repository:
+
 
 
 2. The application will open in your default web browser.
